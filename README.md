@@ -1,6 +1,6 @@
 # Playwright E2E
 
-## GitHub Actions + SonarCloud
+## GitHub Actions + SonarCloudd
 
 [![Build and Tests](https://github.com/luisfilipedm/playwright-e2e/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/luisfilipedm/playwright-e2e/actions/workflows/node.js.yml)
 
